@@ -1,7 +1,7 @@
-rootProject.name = "my-theme-plugin-project"
+rootProject.name = "Fleet Atom One"
 
-include(":my-theme-plugin")
-include(":my-theme-plugin:frontendImpl")
+include(":fleet-atom-one")
+include(":fleet-atom-one:frontendImpl")
 
 pluginManagement {
     repositories {
