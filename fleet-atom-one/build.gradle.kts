@@ -3,10 +3,10 @@ plugins {
     alias(libs.plugins.fleet.plugin)
 }
 
-version = "0.1.0"
+version = "0.1.1"
 
 fleetPlugin {
-     id = "dev.flrp.fleet-atom-one"
+     id = "dev.flrp.fleet.atom"
 
      metadata {
          readableName = "Fleet Atom One"
